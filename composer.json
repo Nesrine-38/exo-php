@@ -1,0 +1,14 @@
+{
+    "name": "nesri/first-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/" }
+    },
+    "authors": [
+        {
+            "name": "nesrine ishak",
+            "email": "nesrineissac@gmail.com"
+        }
+    ],
+    "require": {}
+}
